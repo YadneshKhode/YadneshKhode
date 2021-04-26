@@ -27,11 +27,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadneshkhode&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/yadneshkhode/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with me on Linked IN </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/yadnesh-khode/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:yadneshkhode@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [yadnesh](https://github.com/yadneshkhode)
