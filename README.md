@@ -3,20 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Native and TypeScript
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Bachelor Of Engineering in Computer Science
-- 💼 &nbsp; Full Stack Developer and React Native Developer.
-- 🌱 &nbsp; Enthusiast in latest technologies which make life easier
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms).
+- 🤔 &nbsp; I want to work with latest technologies preferably backend although I also love working in front-end technologies.
+- 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
+- 💼 &nbsp; SDE-1 at Accenture India.
+- 🌱 &nbsp; Amazon Web Services Certified Solutions Architect Associate. 
+- ✍️ &nbsp; I love to keep myself up-to date in latest technologies currently exploring Web 3.0.
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | NodeJs | ExpressJs | Gatsby | Apollo | GraphQL | TypeScript 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | NodeJs | ExpressJs | AWS | Automation Anywhere
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Visual Studio code | Git
 
 <br>
 
