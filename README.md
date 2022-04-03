@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms).
 - 🤔 &nbsp; I want to work with latest technologies preferably backend although I also love working in front-end technologies.
 - 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
-- 💼 &nbsp; SDE-1 at Accenture India.
+- 💼 &nbsp; SDE-1 at Paytm India.
 - 🌱 &nbsp; Amazon Web Services Certified Solutions Architect Associate. 
 - ✍️ &nbsp; I love to keep myself up-to date in latest technologies currently exploring Web 3.0.
 
