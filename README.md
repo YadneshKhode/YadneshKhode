@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; I am SDE-1 at Paytm India a fintech app used by 300 Million+ users.
+- 💼 &nbsp; I am Full Stack Developer with 3 years of experience at Paytm India a fintech app used by 300 Million+ users.
 - 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms) and exploring Blockchain technology.
 - 🤔 &nbsp; I want to work with latest technologies preferably backend although I also love working in front-end technologies.
 - 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
