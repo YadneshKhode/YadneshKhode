@@ -3,20 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms).
+- 💼 &nbsp; I am SDE-1 at Paytm India a fintech app used by 300 Million+ users.
+- 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms) and exploring Blockchain technology.
 - 🤔 &nbsp; I want to work with latest technologies preferably backend although I also love working in front-end technologies.
 - 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
-- 💼 &nbsp; SDE-1 at Paytm India.
-- 🌱 &nbsp; Amazon Web Services Certified Solutions Architect Associate. 
+- 🌱 &nbsp; I am a Amazon Web Services Certified Solutions Architect Associate. 
 - ✍️ &nbsp; I love to keep myself up-to date in latest technologies currently exploring Web 3.0.
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | NodeJs | ExpressJs | AWS | Automation Anywhere
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | NodeJs | ExpressJs | NestJs | AWS | Automation Anywhere
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git | Bitbucket | Jenkins | Jira | 
 
 <br>
 
