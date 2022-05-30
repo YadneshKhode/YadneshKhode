@@ -9,6 +9,7 @@
 - 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
 - 🌱 &nbsp; I am a Amazon Web Services Certified Solutions Architect Associate. 
 - ✍️ &nbsp; I love to keep myself up-to date in latest technologies currently exploring Web 3.0.
+- ✍️ &nbsp; Checkout my portfolio -> https://portfolio-yadnesh-khode.netlify.app/
 
 
 <h3>🛠 Tech Stack</h3>
