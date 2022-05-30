@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; I am Full Stack Developer with 3 years of experience at Paytm India a fintech app used by 300 Million+ users.
-- 🔭 &nbsp; I’m currently enhancing my problem solving skills (Data structures and Algorithms) and exploring Blockchain technology.
-- 🤔 &nbsp; I want to work with latest technologies preferably backend although I also love working in front-end technologies.
+- 💼 &nbsp; I am a Full Stack Developer with 3 years of experience at Paytm India a fintech app used by 300 Million+ users.
+- 🔭 &nbsp; I’m currently enhancing my problem-solving skills (Data structures and Algorithms) and exploring Blockchain technology.
+- 🤔 &nbsp; I want to work with the latest technologies preferably backend although I also love working in front-end technologies.
 - 🎓 &nbsp; I have completed my Bachelor Of Engineering in Computer Science
-- 🌱 &nbsp; I am a Amazon Web Services Certified Solutions Architect Associate. 
-- ✍️ &nbsp; I love to keep myself up-to date in latest technologies currently exploring Web 3.0.
+- 🌱 &nbsp; I am an Amazon Web Services Certified Solutions Architect Associate. 
+- ✍️ &nbsp; I love to keep myself up to date on the latest technologies currently exploring Web 3.0.
 - ✍️ &nbsp; Checkout my portfolio -> https://portfolio-yadnesh-khode.netlify.app/
-
+- 
 
 <h3>🛠 Tech Stack</h3>
 
