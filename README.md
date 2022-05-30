@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | NodeJs | ExpressJs | NestJs | AWS | Automation Anywhere
+- 💻 &nbsp; JavaScript | Typescript | Java  
+- 🌐 &nbsp; ReactJs | NodeJs | ExpressJs | NestJs | AWS | Redis | Automation Anywhere
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Visual Studio code | Git | Bitbucket | Jenkins | Jira | 
+- 🔧 &nbsp; Visual Studio code | Git | Bitbucket | Jenkins | Jira | Sentry | Redash | ArgoCD
 
 <br>
 
